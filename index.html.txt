@@ -110,7 +110,7 @@
                         </div>
                         <div>
                             <p class="text-xs text-slate-500 font-bold uppercase">المحاضر الحالي</p>
-                            <p class="font-black text-lg text-slate-300">د. خالد العامري</p>
+                            <p class="font-black text-lg text-slate-300">د. نجلاء الحاج</p>
                         </div>
                     </div>
                     <button disabled class="w-full py-5 bg-slate-800 text-slate-500 rounded-[1.5rem] font-black text-xl cursor-not-allowed">مغلقة حالياً</button>
